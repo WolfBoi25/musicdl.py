@@ -1,0 +1,22 @@
+# Personal settings and secrets: keep these off GitHub
+musicdl.ini
+.env
+cookies.txt
+*cookies*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Library data, in case your music folder sits inside the project folder
+.musicbrainz_cache.json
+.musicdl_overrides.json
+.musicdl_unmatched.txt
+.musicdl_run_files.txt
+*.m4a
+*.mp3
+*.webm
+*.opus
+*.mp4
