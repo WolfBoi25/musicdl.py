@@ -3,6 +3,12 @@
 Downloads audio from YouTube Music and tags it using MusicBrainz/TheAudioDB and gets lyrics from Genius/Musixmatch. Identification now runs through a chain of sources instead of a single MusicBrainz search, so far fewer songs end up
 untagged.
 
+<p align="center">
+  <a href="https://github.com/WolfBoi25/musicdl.py/releases/latest">
+    <img src="https://img.shields.io/badge/Download-musicdl-2ea44f?style=for-the-badge" alt="Download musicdl" height="60">
+  </a>
+</p>
+
 ## Install
 
 ```powershell
